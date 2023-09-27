@@ -1,0 +1,303 @@
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\testhost.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\testhost.exe
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\MyTest.deps.json
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\MyTest.runtimeconfig.json
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\MyTest.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\MyTest.pdb
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.pdb
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.AssemblyReference.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfoInputs.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfo.cs
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CoreCompileInputs.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CopyComplete
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\refint\MyTest.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.pdb
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\MyTest.genruntimeconfig.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\MyTest\obj\Debug\net6.0\ref\MyTest.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\testhost.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\testhost.exe
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.deps.json
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.runtimeconfig.json
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.pdb
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.pdb
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfo.cs
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CopyComplete
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\refint\MyTest.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.pdb
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.genruntimeconfig.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\ref\MyTest.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\testhost.exe
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\testhost.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.deps.json
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.runtimeconfig.json
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\MyTest.pdb
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\bin\Debug\net6.0\Lession 9.pdb
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.AssemblyReference.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfoInputs.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.AssemblyInfo.cs
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.csproj.CopyComplete
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\refint\MyTest.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.pdb
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\MyTest.genruntimeconfig.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\MyTest\obj\Debug\net6.0\ref\MyTest.dll

@@ -1,0 +1,36 @@
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.deps.json
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.pdb
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.AssemblyReference.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfoInputs.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfo.cs
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.CoreCompileInputs.cache
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\refint\Lession 9.dll
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.pdb
+E:\Chi Sec 9\Lab09\Bai Lam\Lession 9\Lession 9\obj\Debug\net6.0\ref\Lession 9.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.deps.json
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.pdb
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfo.cs
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\refint\Lession 9.dll
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.pdb
+C:\Users\admin\Desktop\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\ref\Lession 9.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.deps.json
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\bin\Debug\net6.0\Lession 9.pdb
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.AssemblyReference.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfoInputs.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.AssemblyInfo.cs
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.csproj.CoreCompileInputs.cache
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\refint\Lession 9.dll
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\Lession 9.pdb
+C:\Users\SLOTH\Desktop\52000688-main (1)\52000688-main\Lession 9\Lession 9\Lession 9\obj\Debug\net6.0\ref\Lession 9.dll
